@@ -117,7 +117,7 @@ body {
 .hero-section {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('../HTML/hero-section-img.jpg');
+    background-image: url('hero-section-img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -206,7 +206,7 @@ body {
 
 .about-picture__img {
     height: 360px;
-background-image: url('../HTML/about-picture-img.jpg');
+background-image: url('about-picture-img.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 }
@@ -331,7 +331,7 @@ color: #19191a;
     flex-direction: column-reverse;
     height: 450px;
     padding: 25px;
-    background-image: url('../HTML/blog-img.jpg');
+    background-image: url('blog-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
